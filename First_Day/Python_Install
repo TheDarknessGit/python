@@ -1,0 +1,10 @@
+Advanced System Settings
+- Environment Variables
+- Path
+ - new Path "C:\Python27"
+ 
+ 
+ data types
+ lists - can be changed [ ]
+ tuple - cannot be changed ( )
+ dictionaries { }

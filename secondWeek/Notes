@@ -1,0 +1,7 @@
+Control structures:
+  - Writing Python Scripts
+  - Conditional statements
+  
+  x = 100
+  if x == 100:
+    print "X is 100"
