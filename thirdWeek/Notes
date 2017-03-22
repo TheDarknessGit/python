@@ -1,0 +1,16 @@
+thirdWeek notes:
+
+help()
+    modules
+        sys() -module
+        json() -module
+        
+        to import do 'import <name>'
+        
+        r - read
+        w - write
+        a - append
+        r+ - read and write
+        
+        json work
+        
